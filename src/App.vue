@@ -99,12 +99,13 @@
 </template>
 
 <script>
-import {KUTE} from 'kute.js'
+import KUTE from 'kute.js'
 
 export default {
   name: 'App',
   methods: {
     animateBlob() {
+      console.log("I'm iiin")
       const tween = KUTE.fromTo(
           '#blob1',
           {path: '#blob1'},
