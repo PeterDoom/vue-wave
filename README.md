@@ -1,5 +1,7 @@
 # vue-wave
 
+### A curvaceous demo of vue js
+
 ## Project setup
 ```
 npm install
