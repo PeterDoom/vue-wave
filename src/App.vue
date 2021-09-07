@@ -51,7 +51,7 @@
 
     <div class="spacer layer2"/>
 
-    <section @scroll="animateBlob()" class="pink">
+    <section class="pink">
       <h1>Curvy</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
         eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
@@ -102,6 +102,9 @@ import KUTE from 'kute.js'
 
 export default {
   name: 'App',
+  mounted() {
+    this.animateBlob();
+  },
   methods: {
     animateBlob() {
       console.log("I'm iiin")
