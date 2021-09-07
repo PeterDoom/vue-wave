@@ -1,30 +1,22 @@
 <template>
   <div>
     <section class="blue">
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>Plamen Nanev presents: </h1>
+      <p>The curvaceous site built with Vue and some CSS magic</p>
       <div class="curve"/>
     </section>
 
     <section>
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>What does this showcase?</h1>
+      <p>My skills with Vue and CSS, mostly just having fun and having something cool to look at</p>
     </section>
     <section class="bubble">
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>Pretty cool, huh?</h1>
+      <p>I've got more skills under my belt. Such as:</p>
     </section>
     <section class="dark">
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>Java, Python, Docker, AWS, Prefect, JS, Node.JS and many more!</h1>
+      <p>I wouldn't have enough space if I had to list them all!</p>
     </section>
     <section class="red">
       <h1>Curvy</h1>
