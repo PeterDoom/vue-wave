@@ -51,7 +51,7 @@
 
     <div class="spacer layer2"/>
 
-    <section class="pink">
+    <section @scroll="animateBlob()" class="pink">
       <h1>Curvy</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
         eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
@@ -65,7 +65,6 @@
           xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink"
           version="1.1"
-          @scroll="animateBlob()"
       >
         <g transform="translate(483.77650833544976 190.72725273656422)">
           <path
