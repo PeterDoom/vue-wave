@@ -41,7 +41,7 @@
 
     <section class="pink">
       <h1>Of Course, I took it a step further</h1>
-      <p>I decided to implement everything I learned in Vue and deploy it to the internet! Make it more shiny, put a better design and make it my own!</p>
+      <p>I decided to implement everything I learned in Vue and deploy it to the internet! Make it more shiny, put a better design and make it my own! The code will be made public when ready, alongside all scripts and files accompanying it </p>
 
       <svg
           id="visual"
