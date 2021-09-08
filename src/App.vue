@@ -19,10 +19,8 @@
       <p>I wouldn't have enough space if I had to list them all!</p>
     </section>
     <section class="red">
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>This couldn't been done without:</h1>
+      <p>Youtube, CSS, KUBE.js, Haikei and Shape Divider</p>
       <div class="wave">
         <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
           <path
@@ -85,6 +83,8 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
         eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
         vero.</p>
+      <p>Check me out on GitHub:</p>
+      <img src="./assets/qr-code.svg" alt="nothing" >
     </section>
   </div>
 </template>
@@ -239,5 +239,10 @@ section {
 .blob-motion {
   position: absolute;
   transform: translateY(-20%);
+}
+
+img {
+  max-height: 250px;
+  max-width: 250px;
 }
 </style>
