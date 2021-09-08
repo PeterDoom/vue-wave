@@ -33,19 +33,15 @@
     <div class="spacer layer1"/>
 
     <section>
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>Please don't view this as something serious</h1>
+      <p>This is something that I made to test some skills that I've learned from a YouTube video about creating waves with CSS.</p>
     </section>
 
     <div class="spacer layer2"/>
 
     <section class="pink">
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>Of Course, I took it a step further</h1>
+      <p>I decided to implement everything I learned in Vue and deploy it to the internet! Make it more shiny, put a better design and make it my own!</p>
 
       <svg
           id="visual"
