@@ -75,10 +75,8 @@
     <div class="spacer layer2 flip"/>
 
     <section>
-      <h1>Curvy</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid asperiores consequatur distinctio eius
-        eligendi eveniet nulla omnis, qui voluptatibus. Quis ratione, ullam! Alias aperiam corporis dicta nobis quos
-        vero.</p>
+      <h1>Thank you for reading</h1>
+      <p>This means a lot to me!</p>
       <p>Check me out on GitHub:</p>
       <img src="./assets/qr-code.svg" alt="nothing" >
     </section>
