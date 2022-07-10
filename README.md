@@ -1,6 +1,6 @@
 # vue-wave
 
-### A curvaceous demo of vue js
+### A curvaceous landing page demo of vue js
 
 ## Project setup
 ```
